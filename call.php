@@ -13,6 +13,7 @@ function send($phone){
 }
 echo "COPYRIGHT ; SGBTEAM\n\n";
 echo "YOUTUBE : KAMIKAZEONE\n\n";
+echo "CONTOH NOMOR : +6289694776027/089694776027\n\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
 $execute = send($nomor);
