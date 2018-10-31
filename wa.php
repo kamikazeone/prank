@@ -1,6 +1,7 @@
 <?php
 echo "COPYRIGHT : SGB TEAM\n\n";
 echo "YOUTUBE : KAMIKAZEONE\n\n";
+echo "CONTOH NOMOR : +6289694776027/089694776027\n\n";
 echo "Nomor Target?\nInput : ";
 $nomer = trim(fgets(STDIN));
 if(strlen($nomer)==11){
